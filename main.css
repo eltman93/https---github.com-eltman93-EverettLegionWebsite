@@ -1,0 +1,37 @@
+header {
+    display: block;
+    margin: auto;
+    width: fit-content;
+    max-width: fit-content;
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+body {
+    background-color: #007aff;
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+#hero-image {
+    padding-bottom: 25px;
+}
+
+#navbar {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+#emblem {
+    max-width: 100px;
+    max-width: 100px;
+    vertical-align: middle;
+}
+
+#navbar a {
+    padding: 10px;
+}
